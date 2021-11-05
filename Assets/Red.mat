@@ -70,10 +70,10 @@ Material:
     - _SpecularHighlights: 1
     - _SquishAmount: 1
     - _SquishCurve: 1
-    - _SquishDistance: 0.6
+    - _SquishDistance: 1
     - _SquishLimit: 0
     - _SquishStart: 0.5
-    - _SquishY: 0
+    - _SquishY: 0.2
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
